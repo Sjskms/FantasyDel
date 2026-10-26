@@ -12,8 +12,8 @@ from aiogram.types import Message
 from aiogram.exceptions import TelegramBadRequest
 
 # ================= НАСТРОЙКИ БОТА =================
-BOT_TOKEN = "8966599826:AAHNuHjB31pPN7qaKsk3ExObJWm7W0Jgpws"  # Токен от @BotFather
-ADMIN_ID = 7916504148         # Ваш Telegram ID для отправки логов/оповещений о дубликатах
+BOT_TOKEN = "8880658125:AAGuQ3gAuhflDvjj1zH5p-d1MHWCwLL7ShU"  # Токен от @BotFather
+ADMIN_ID = 8903626720         # Ваш Telegram ID для отправки логов/оповещений о дубликатах
 DB_PATH = "data/duplicate_detector.db"
 # Допустимый порог различия для картинок (0 - точная копия, чем больше число, тем больше размыта схожесть).
 # Оптимально: от 0 до 5.
